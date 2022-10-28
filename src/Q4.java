@@ -195,7 +195,7 @@ public class Q4 {
 			// If a new Line / line break  Character is encountered, this code will run.
 			else if (newLine) {
 				lineNumber++;   
-				index++;        // Used to skip New Line Characters.
+				index+=2;        // Used to skip New Line Characters.
 				continue;       
 			}
 			
