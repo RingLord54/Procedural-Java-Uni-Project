@@ -1,0 +1,27 @@
+public class Q3Example2 {
+
+	/**
+	 * This
+	 * comment goes
+	 * across multiple lines of the code
+	 */
+	/**
+	 * This
+	 * comment goes
+	 * across multiple lines of the code
+	 */
+	public static void main(String[] args) {
+		HobbitsSay("Hello Hobbits!");
+	/**
+	 * This
+	 * comment goes
+	 * across multiple lines of the code
+	 */
+	/**
+	 * This
+	 * comment goes
+	 * across multiple lines of the code
+	 */
+	}
+	
+}
