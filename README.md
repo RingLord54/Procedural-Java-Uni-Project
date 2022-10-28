@@ -31,3 +31,4 @@ Produces this result:
 ![image](https://user-images.githubusercontent.com/58378514/198736355-b64319bc-e661-4b6c-86cc-bdb72ad0a7c5.png)
 
 ## Q5
+The `Q5.java` file acts as an error checker, as it will scan through a text file that contains code just like the other two java files. However, should it come across a set of curly-brackets that has a missing bracket or a string literal that hasn't been closed with a double quote then it will flag these errors to the console.
